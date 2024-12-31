@@ -1,6 +1,6 @@
 // index.js
 // where your node app starts
-console.log("connected");
+console.log("connected2");
 // init project
 require('dotenv').config();
 var express = require('express');
